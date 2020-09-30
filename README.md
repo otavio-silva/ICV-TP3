@@ -1,0 +1,2 @@
+# ICV-TP3
+Repositório do trabalho prático 3 da disciplina Introdução A Computação Visual (DCC030 - TU).
